@@ -1,0 +1,12 @@
+Changed database context to 'sample3'.
+emp_no      emp_fname            emp_lname            domicile                 
+----------- -------------------- -------------------- -------------------------
+      25348 Matthew              Smith                San Antonio              
+      10102 Ann                  Jones                Houston                  
+       9031 Elke                 Hansel               Portland                 
+       2581 Elsa                 Bertoni              Tacoma                   
+      28559 Sybill               Moser                Houston                  
+      32390 Andy                 Young                Miami                    
+      43002 Glenn                Spencer              Miami                    
+
+(7 rows affected)
